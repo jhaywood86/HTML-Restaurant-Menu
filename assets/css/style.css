@@ -2,13 +2,14 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background-color: beige;
+    background-color: black;
     text-align: center;
 }
 
 h1,
 h2 {
-    color: darkred;
+    color: rgb(237, 4, 4);
+    <p style="font-size:30;"</p>
 }
 
 h3, 
@@ -28,7 +29,7 @@ main {
 }
 
 nav {
-    background-color: beige;
+    background-color: black;
     padding: 10px;
 }
 
@@ -65,6 +66,7 @@ nav a:hover {
 
 .service {
     display: inline-block;
+    text-align: center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
